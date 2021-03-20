@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://challenges.reply.com/
+HostUrl=https://aws1codec01.s3-eu-west-1.amazonaws.com/00/00/40/19/401998?response-content-disposition=attachment%3Bfilename%20%3D%22data_scenarios_a_example.in%22%3Bfilename%2A%3DUTF-8%27%27data_scenarios_a_example.in&response-content-type=text%2Fplain&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210311T161750Z&X-Amz-SignedHeaders=host&X-Amz-Expires=11529&X-Amz-Credential=AKIAJONWZLFCJLSL3SJQ%2F20210311%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=c1e2eb801b9f8e5898b9bb2b431c0cf2d985a56d45a8b0d428c1948da86eed77
